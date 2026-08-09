@@ -1,3 +1,9 @@
 [submodule "3D/vendor/GLFW"]
 	path = 3D/vendor/GLFW
 	url = https://github.com/TheCherno/GLFW
+[submodule "3D/vendor/stb"]
+	path = 3D/vendor/stb
+	url = https://github.com/nothings/stb
+[submodule "3D/vendor/glew"]
+	path = 3D/vendor/glew
+	url = https://github.com/nigels-com/glew
